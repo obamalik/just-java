@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="Edit1">Name</string>
+    <string name="Text1">Quantity</string>
+    <string name="Text2" translatable="false">Order Summary</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="price_value">Total: $</string>
+    <!-- Header text for the list of toppings [CHAR LIMIT = 20] -->
+    <string name="Text3">Toppings</string>
+    <string name="button1">ORDER</string>
+    <string name="button2" translatable="false">+</string>
+    <string name="button3" translatable="false">-</string>
+    <string name="price" translatable="false">0</string>
+    <string name="checkBox1">Whipped cream</string>
+    <string name="checkBox2">Chocolate</string>
+    <!-- Name of the order summary. It will be shown is the format of "Name: Malik" where Malik is the
+     user's name.[CHAR LIMIT = NONE] -->
+    <string name="order_summary_name">Name: </string>
+    <string name="add_whipped_cream">Add whipped cream?</string>
+    <string name="add_chocolate">Add Chocolate?</string>
+    <string name="quantity">Quantity:</string>
+    <integer name="quantity">1</integer>
+</resources>
